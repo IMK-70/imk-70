@@ -1,6 +1,26 @@
-# 💫 About Me:
-Name: Ibrahim Kurdi<br><br>Headline / Title:<br><br>Data Analyst | BI Developer | Data Engineer<br><br>About Me:<br><br>I’m a Data Analyst and BI Developer with hands-on experience in data analysis, business intelligence, database management, and ETL processes. I currently work on extracting, transforming, validating, and analyzing data to support reporting and operational decision-making.<br><br>I work with SQL Server, Oracle, Power BI, Python, Excel, and database technologies to build data solutions, automate reporting workflows, and develop interactive dashboards. My current role involves working with real-world data, designing structured databases, improving data quality, and transforming raw data into meaningful insights.<br><br>I hold a Diploma in Programming and Web Development with First Honor and I’m currently pursuing a Bachelor’s degree in Data Science. My goal is to continue developing my expertise in data engineering, business intelligence, analytics, and modern data solutions.<br><br>🎓 Education<br><br>Diploma in Programming and Web Development — First Honor<br><br>Bachelor’s Degree in Data Science — Currently Pursuing
+🔭 **Currently working on**
+Making sense of real-world data through SQL, Power BI, and ETL — from messy data to dashboards people can actually use.
 
+👯 **Open to collaborating on**
+Data projects, dashboards, and anything that involves solving problems with data and learning along the way.
+
+🤝 **Always learning more about**
+Data engineering, scalable data pipelines, and better ways to move and work with data.
+
+🌱 **Currently exploring**
+Data Science, Python, advanced SQL, and new ways to turn data into something meaningful.
+
+💬 **Things I enjoy talking about**
+SQL, Power BI, databases, ETL, data analysis, and the little details that make a dashboard actually useful.
+
+⚡ **A little something about me**
+Started with programming and web development, discovered how much I enjoy working with data, and now I’m building my path across Data Analytics, BI, and Data Engineering.
+
+### 🌐 Connect with me
+
+<a href="YOUR-LINKEDIN-URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 # 💻 Tech Stack:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
