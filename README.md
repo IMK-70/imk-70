@@ -18,7 +18,7 @@ Started with programming and web development, discovered how much I enjoy workin
 
 ### 🌐 Connect with me
 
-<a href="YOUR-LINKEDIN-URL">
+<a href="https://www.linkedin.com/in/ibrahimkurdi-/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
